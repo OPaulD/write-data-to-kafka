@@ -9,6 +9,7 @@ wheels/
 # pyproject
 pyproject.toml
 test.py
+uv.lock
 
 # Virtual environments
 .venv
